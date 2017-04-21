@@ -12,3 +12,5 @@ var programador:boolean = true;
 var lengs:Array<string> = ["PHP", "Javascript", "CSS"];
 
 etiqueta.innerHTML = nombre + " - " + edad; 
+
+alert("HOla");

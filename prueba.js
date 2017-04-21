@@ -10,3 +10,4 @@ var edad = 23;
 var programador = true;
 var lengs = ["PHP", "Javascript", "CSS"];
 etiqueta.innerHTML = nombre + " - " + edad;
+alert("HOla");
